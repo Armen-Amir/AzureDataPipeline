@@ -1,0 +1,9 @@
+{
+	"name": "nycpayroll-armen-a-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "53f3e1ad-447c-4cf6-9ef0-9998ed5fe867",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
